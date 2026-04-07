@@ -9,6 +9,7 @@ Este proyecto implementa un flujo de CI para validar sintaxis .md.
 
 ## Integrantes
 
-- [Tu Nombre](https://github.com/tu-usuario)
+- [Benjamin Sepulveda](https://github.com/tu-usuario)
 
 **Evaluación completada al 100%.**
+
