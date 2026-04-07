@@ -1,14 +1,12 @@
-# Proyecto de Automatización DevOps
+# Proyecto DevOps: Automatización de Markdown
 
-## Descripción
+Este proyecto implementa un flujo de CI para validar sintaxis .md.
 
-Este repositorio contiene la evaluación práctica de Git y GitHub Actions.
-
-## Instrucciones de Instalación
+## Instalación
 
 1. Clonar el repositorio.
-2. Cambiar a la rama develop.
+2. Ejecutar `npm install` (si aplica).
 
-## Enlaces
+## Integrantes
 
-* [Página oficial de GitHub](https://github.com)
+- [Tu Nombre](https://github.com/tu-usuario)
